@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining33.dll"</Assembly>
+		<AddInId>AB4F2580-691F-4B68-9AF2-1BA2CAB8394D</AddInId>
+		<FullClassName>RevitAPITraining33.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Трубы с запасом</Text>
+	</AddIn>
+</RevitAddIns>
